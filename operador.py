@@ -28,5 +28,4 @@ def main():
             st.write(f'La division de  {num1} / {num2} es:'),
         case _:
             st.write(f'OPERACION NO VALIDA SELECCIONA suma, resta, multiplicacion o division'),
-    
 main()

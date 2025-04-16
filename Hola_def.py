@@ -7,9 +7,6 @@ def main():
         def saludo():
                 nombre = 'Vladimir'
                 st.write(f'## !Hola {nombre} vas a programar muy bien!')
-                st.success('EXITOSO VAMOS PA LANTE')
-
-    
+                st.success('EXITOSO VAMOS PA LANTE........')
         saludo()
-
 main()
